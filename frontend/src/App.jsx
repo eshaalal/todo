@@ -16,7 +16,6 @@ function App() {
       <Todos todos={todos}/>
       </div>
       
-    
   )
 }
 
